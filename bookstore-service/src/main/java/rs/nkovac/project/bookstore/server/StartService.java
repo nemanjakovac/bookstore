@@ -27,9 +27,6 @@ public class StartService extends Application<AppConfig> {
 		
 		environment.jersey().register(new BookController(dbi.onDemand(BookstoreService.class)));
 		
-	//	environment.jersey().register(new BookController(new BookstoreService() {
-	//	}));
-		
 	}
 
 }

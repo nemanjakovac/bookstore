@@ -25,6 +25,11 @@ public abstract class BookstoreService {
 	@CreateSqlObject
 	abstract BookDao bookDao();
 
+	/**
+	 * @return
+	 * 
+	 * not implemented
+	 */
 	public List<Book> getBooks() {
 //		return bookDao().getBooks();
 		return null;
