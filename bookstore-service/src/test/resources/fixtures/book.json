@@ -1,0 +1,7 @@
+{
+    "isbn": "testISBN",
+    "title": "testTitle",
+    "authors": "testAuthors",
+    "genre": "testGenre",
+    "pagesNum": 1000
+}
