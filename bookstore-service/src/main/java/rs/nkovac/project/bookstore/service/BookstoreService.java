@@ -1,6 +1,5 @@
 package rs.nkovac.project.bookstore.service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import javax.ws.rs.WebApplicationException;
